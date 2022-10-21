@@ -107,7 +107,7 @@ header {
     width: 100%;
     max-width: 520px;
     padding: 10px;
-    margin: 0px 15px 50px 15px;
+    margin: 0px 0px 50px 0px;
     font-size: 20px;
   }
 
@@ -119,6 +119,8 @@ header {
 
     border: 1px solid ;
     border-radius: 0px;
+
+    margin-right: 1%;
 
     &:hover{
       cursor: pointer;
