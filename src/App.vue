@@ -101,6 +101,7 @@ header {
 .search_form {
   display: flex;
   justify-content: center;
+  margin: 0% 2%;
 
   input {
     width: 100%;
