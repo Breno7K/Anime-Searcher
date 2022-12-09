@@ -1,4 +1,5 @@
 # animedb
+https://breno-anime-searcher.netlify.app/
 
 ## Project setup
 ```
