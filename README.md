@@ -1,6 +1,11 @@
 # animedb
 https://breno-anime-searcher.netlify.app/
 
+## Description
+
+This simple project was dedicated to practice JavaScript, Vue, and consuming APIs. The idea was to search for anime present in the MyAnimeList database.
+
+
 ## Project setup
 ```
 npm install
